@@ -1,0 +1,1 @@
+{"version":3,"file":"mini-vue.cjs.js","sources":["../src/index.ts"],"sourcesContent":["export var test = function (a, b) {\r\n    debugger;\r\n    var sum = a + b;\r\n    return sum;\r\n};\r\n"],"names":[],"mappings":";;;;AAAU,IAAC,IAAI,GAAG,UAAU,CAAC,EAAE,CAAC,EAAE;AAClC,IAAI,SAAS;AACb,IAAI,IAAI,GAAG,GAAG,CAAC,GAAG,CAAC,CAAC;AACpB,IAAI,OAAO,GAAG,CAAC;AACf;;;;"}

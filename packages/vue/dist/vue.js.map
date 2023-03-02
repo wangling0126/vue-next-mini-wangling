@@ -1,0 +1,1 @@
+{"version":3,"file":"vue.js","sources":["../src/index.ts"],"sourcesContent":["export var test = function (a, b) {\r\n    debugger;\r\n    var sum = a + b;\r\n    return sum;\r\n};\r\n"],"names":[],"mappings":";;;AAAU,QAAC,IAAI,GAAG,UAAU,CAAC,EAAE,CAAC,EAAE;IAClC,IAAI,SAAS;IACb,IAAI,IAAI,GAAG,GAAG,CAAC,GAAG,CAAC,CAAC;IACpB,IAAI,OAAO,GAAG,CAAC;IACf;;;;;;;;;;;;"}
